@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naman1512
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning Web Queries and Services
 - 💞️ I’m looking to collaborate on Web Development projects
 - 📫 reach me on my mail -  namanbhatt991@gmail.com 
 
