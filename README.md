@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naman1512
-- 👀 I’m interested in Full-Stack-Development
+- 👀 I’m a in Full-Stack-Development
 - 🌱 I’m currently learning Web Technologies and Services
 - 💞️ I’m looking to collaborate on Web Development projects
 - 📫 reach me on my mail -  namanbhatt991@gmail.com 
