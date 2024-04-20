@@ -2,7 +2,7 @@
 - 👀 I’m a in Full-Stack-Development
 - 🌱 I’m currently learning Web Technologies and Services
 - 💞️ I’m looking to collaborate on Web Development projects
-- 📫 reach me on my mail -  namanbhatt991@gmail.com 
+- 📫 reach me on my mail -  namanbhatt.dev@gmail.com 
 
 <!---
 naman1512/naman1512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
